@@ -37,7 +37,7 @@ export function Nav() {
             <li key={l.href}>
               <a
                 href={l.href}
-                className="hover:text-foreground transition-colors"
+                className="rounded-full px-3 py-2 hover:bg-black hover:text-white transition-colors"
               >
                 {l.label}
               </a>

@@ -13,10 +13,10 @@ export function Portfolio() {
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-16">
             <div>
               <p className="text-xs uppercase tracking-[0.2em] text-muted-foreground mb-4">
-                Selected work
+                Past Projects
               </p>
               <h2 className="font-display text-4xl md:text-6xl text-balance max-w-2xl">
-                Recent projects.
+                Past Projects
               </h2>
             </div>
             <p className="text-muted-foreground max-w-md">
